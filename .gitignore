@@ -1,0 +1,32 @@
+### VisualStudioCode ###
+.vscode/*
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+.vscode/extensions.json
+
+### Goland ###
+.idea/*
+
+### Go ###
+*.exe
+*.exe~
+
+### Etc ###
+debug
+*.log
+*.test
+*.out
+
+### directory ###
+.DS_Store
+vendor
+logs
+log
+
+### application ###
+aws-sdk-go-analyzer
+
+## doc ###
+*.pdf
+*.json
